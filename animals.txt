@@ -1,0 +1,6 @@
+DOG
+cat
+elephant
+DEER
+pig
+HORSE
