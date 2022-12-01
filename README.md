@@ -1,3 +1,3 @@
-# CIS1500-Labs
+# introCS-labs
 
 Labs for Intro to Programming
